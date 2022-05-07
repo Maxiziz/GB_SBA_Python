@@ -13,7 +13,8 @@ new_list = [7, 4, 3, 3, 2]
 while True:
     q = 0
     a = int(input("Введите элемент рейтинга (число) или введите `111` для выхода >>>"))
-    if a == 111: exit(0)
+    if a == 111:
+        exit(0)
     for el in new_list:
         if a > el:
             new_list.insert(new_list.index(el), a)
