@@ -1,0 +1,6 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 20942.74
+Volodin 7442.11
+Kuznetsov 44786.47
+Smirnov 19384.85
