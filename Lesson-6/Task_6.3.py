@@ -69,3 +69,4 @@ for el in test_data:
     position.get_full_name()
     position.get_total_income()
     print("___________________")
+
